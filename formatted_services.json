@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "550",
+    "ServiceName": "Azure Batch pools",
+    "RetiringFeature": "Basic and Standard A-series VMs",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/basic-and-standard-aseries-vms-on-hdinsight-will-retire-on-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "535",
+    "ServiceName": "Azure classic administrator roles",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/azure-classic-administrator-roles-are-retiring-on-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "564",
+    "ServiceName": "HDInsight",
+    "RetiringFeature": "A Series",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/basic-and-standard-aseries-vms-on-hdinsight-will-retire-on-31-august-2024/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "62",
+    "ServiceName": "Virtual Machines",
+    "RetiringFeature": "HB-series",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/hbseries-azure-virtual-machines-will-be-retired-by-31-august-2024/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "232",
+    "ServiceName": "Classic Resource Providers",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "255",
+    "ServiceName": "Azure Automation",
+    "RetiringFeature": "Agent-based user Hybrid Runbook Worker (Windows & Linux) ",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/retirement-azure-automation-agent-user-hybrid-worker",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "245",
+    "ServiceName": "Azure Automation",
+    "RetiringFeature": "Update Management",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/updatemanagement-retired-31august2024/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "343",
+    "ServiceName": "Azure Functions",
+    "RetiringFeature": "Version 3.x of the Azure Cosmos DB extension ",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/update-to-azure-functions-cosmos-db-extension-version-4x-by-31-august-2024-for-continued-support/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "13",
+    "ServiceName": "App Service",
+    "RetiringFeature": "App Service Environment v1/v2",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/app-service-environment-v1-v2-retirement/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "7",
+    "ServiceName": "Storage Account",
+    "RetiringFeature": "Classic",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/classic-azure-storage-accounts-will-be-retired-on-31-august-2024/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "37",
+    "ServiceName": "Azure Cosmos DB",
+    "RetiringFeature": "v2.x .NET SDK",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/action-required-update-your-azure-cosmos-db-net-sdk-to-version-3-by-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "38",
+    "ServiceName": "Cloud service (classic)",
+    "RetiringFeature": "Classic",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/cloud-services-retirement-announcement/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "39",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "Log Analytics Agent",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/were-retiring-the-log-analytics-agent-in-azure-monitor-on-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "40",
+    "ServiceName": "Machine Learning Studio (classic)",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/machine-learning-studio-classic-will-retire-on-31-august-2024/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "41",
+    "ServiceName": "Azure Cosmos DB",
+    "RetiringFeature": "Java V3 SDK ",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://learn.microsoft.com/azure/cosmos-db/nosql/migrate-java-v4-sdk?tabs=java-v4-async",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "42",
+    "ServiceName": "Azure Cosmos DB",
+    "RetiringFeature": "Java ASync v2.x ",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://learn.microsoft.com/azure/cosmos-db/nosql/migrate-java-v4-sdk?tabs=java-v4-async",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "43",
+    "ServiceName": "Azure Data Factory",
+    "RetiringFeature": "Compute Optimized data flows",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/compute-optimized-data-flows-will-be-retired-on-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "44",
+    "ServiceName": "Azure Synapse Analytics",
+    "RetiringFeature": "Compute Optimized data flows",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/azure-synapse-analytics-compute-optimized-data-flows-will-be-retired-on-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "45",
+    "ServiceName": "Azure Site Recovery",
+    "RetiringFeature": "Hard-coded IP addresses",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/transition-to-using-service-tags-by-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "46",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "Release Annotations using API keys",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/transition-to-new-release-annotations-in-application-insights/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "47",
+    "ServiceName": "Text-to-Speech",
+    "RetiringFeature": "Standard Voice",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/we-re-retiring-the-standard-voice-on-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "48",
+    "ServiceName": "Azure Cognitive Search",
+    "RetiringFeature": "Skills for Text Analytics v2",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-select-azure-cognitive-search-skills-will-be-retired-on-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "49",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "Multi-step web tests",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-transition-to-custom-availability-tests-in-application-insights/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "88",
+    "ServiceName": "Azure Networking (classic)",
+    "RetiringFeature": "Virtual network (classic), Reserved IP Addresses (classic), ER gateway  (classic), Application gateway (classic), VPN gateway (classic)",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/five-azure-classic-networking-services-will-be-retired-on-31-august-2024/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "124",
+    "ServiceName": "Azure Cache for Redis",
+    "RetiringFeature": "Classic",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://learn.microsoft.com/azure/azure-cache-for-redis/cache-faq",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "137",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "HPC Pack burst to Cloud services",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/azure-hpc-pack-burst-to-cloud-services-will-be-retired-on-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "139",
+    "ServiceName": "Azure Logic Apps",
+    "RetiringFeature": "Integration Services Environment (IES)",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/integration-services-environment-will-be-retired-on-31-august-2024-transition-to-logic-apps-standard/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "204",
+    "ServiceName": "API Management",
+    "RetiringFeature": "Compute Platform (stv1) ",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://docs.microsoft.com/azure/api-management/compute-infrastructure#how-do-i-migrate-to-the-stv2-platform",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "318",
+    "ServiceName": "Change Tracking",
+    "RetiringFeature": "Log Analytics agent support",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/changetrackingwithla-retirement-31august2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "421",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": " Log Analytics agent–based VM insights",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "60",
+    "ServiceName": "Virtual Machines",
+    "RetiringFeature": "Av1-series",
+    "RetirementDate": "2024-08-31",
+    "Link": "https://azure.microsoft.com/updates/action-required-migrate-your-azure-workloads-to-av2series-vms-before-31-august-2024/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "419",
+    "ServiceName": "Azure Storage",
+    "RetiringFeature": "Legacy Go client libraries - File",
+    "RetirementDate": "2024-09-13",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-the-legacy-azure-storage-go-client-libraries-will-be-retired-on-13-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "422",
+    "ServiceName": "Azure Storage",
+    "RetiringFeature": "Legacy Java client libraries",
+    "RetirementDate": "2024-09-13",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-the-legacy-azure-storage-java-client-libraries-will-be-retired-on-13-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "414",
+    "ServiceName": "Azure Storage",
+    "RetiringFeature": "Ruby client libraries",
+    "RetirementDate": "2024-09-13",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-the-azure-storage-ruby-client-libraries-will-be-retired-on-13-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "415",
+    "ServiceName": "Azure Storage",
+    "RetiringFeature": "Android client libraries",
+    "RetirementDate": "2024-09-13",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-the-azure-storage-android-client-libraries-will-be-retired-on-13-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "417",
+    "ServiceName": "Azure Storage",
+    "RetiringFeature": "Legacy Go client libraries - Blob",
+    "RetirementDate": "2024-09-13",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-the-legacy-azure-storage-go-client-libraries-will-be-retired-on-13-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "418",
+    "ServiceName": "Azure Storage",
+    "RetiringFeature": "Legacy Go client libraries - Queue",
+    "RetirementDate": "2024-09-13",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-the-legacy-azure-storage-go-client-libraries-will-be-retired-on-13-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "427",
+    "ServiceName": "Azure Storage",
+    "RetiringFeature": "Legacy Python client libraries",
+    "RetirementDate": "2024-09-13",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-the-legacy-azure-storage-python-client-libraries-will-be-retired-on-13-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "243",
+    "ServiceName": "Azure Database for MySQL",
+    "RetiringFeature": "Single server",
+    "RetirementDate": "2024-09-16",
+    "Link": "https://learn.microsoft.com/azure/mysql/single-server/whats-happening-to-mysql-single-server",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "409",
+    "ServiceName": "Azure Maps",
+    "RetiringFeature": "Data V1/V2 APIs  ",
+    "RetirementDate": "2024-09-16",
+    "Link": "https://azure.microsoft.com/updates/azure-maps-data-v1-v2-apis-will-be-retired-on-16-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "126",
+    "ServiceName": "Azure Multi-Factor Authentication",
+    "RetiringFeature": "Server",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://learn.microsoft.com/entra/identity/monitoring-health/recommendation-migrate-to-microsoft-entra-mfa",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "68",
+    "ServiceName": "Azure Sphere CLI (classic) ",
+    "RetiringFeature": "Classic",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/important-notice-azure-product-retirement-end-of-life-announcement-of-azure-sphere-classic-cli-on-30-september-2024-replace-w/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "440",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "Pool list usage metrics API",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-batch-pool-list-usage-metrics-api-will-be-retired-on-30-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "441",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "CLI extensions",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-batch-cli-extensions-will-be-retired-on-30-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "442",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "Task authentication token",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-batch-task-authentication-token-will-be-retired-on-30-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "444",
+    "ServiceName": "Azure CycleCloud",
+    "RetiringFeature": "HTCondor scheduler cluster type",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-cyclecloud-support-for-htcondor-scheduler-cluster-type-will-be-retired-on-30-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "445",
+    "ServiceName": "Azure CycleCloud",
+    "RetiringFeature": "BeeGFS filesystem cluster type",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-cyclecloud-support-for-beegfs-filesystem-cluster-type-will-be-retired-on-30-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "446",
+    "ServiceName": "Azure CycleCloud",
+    "RetiringFeature": "Azure CycleCloud BeeGFS filesystem cluster type",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-cyclecloud-support-for-beegfs-filesystem-cluster-type-will-be-retired-on-30-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "448",
+    "ServiceName": "Application Insights",
+    "RetiringFeature": "Python OpenCensus SDK",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://learn.microsoft.com/azure/azure-monitor/app/opentelemetry-python-opencensus-migrate",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "527",
+    "ServiceName": "Azure Stream Analytics",
+    "RetiringFeature": ".NET Standard user-defined functions",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/net-standard-userdefined-functions-for-azure-stream-analytics-will-be-retired-on-30-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "518",
+    "ServiceName": "Azure Stream Analytics",
+    "RetiringFeature": "C# custom deserializer",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024-2/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "554",
+    "ServiceName": "Azure Grafana Services",
+    "RetiringFeature": "Grafana 9",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/action-recommended-update-to-using-grafana-version-10-for-azure-managed-grafana/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "556",
+    "ServiceName": "Azure Advisor",
+    "RetiringFeature": "Total Cost Savings",
+    "RetirementDate": "2024-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-advisor-will-no-longer-display-aggregated-potential-yearly-savings-beginning-30-september-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "460",
+    "ServiceName": "App Service",
+    "RetiringFeature": "Python 3.8",
+    "RetirementDate": "2024-10-01",
+    "Link": "https://github.com/Azure/app-service-linux-docs/blob/master/Runtime_Support/python_support.md#how-to-update-your-app-to-target-a-different-version-of-python",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "401",
+    "ServiceName": "Azure Functions",
+    "RetiringFeature": "Python 3.8",
+    "RetirementDate": "2024-10-14",
+    "Link": "https://learn.microsoft.com/azure/azure-functions/functions-versions?tabs=isolated-process%2Cv4&pivots=programming-language-python",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "403",
+    "ServiceName": "Azure Cache for Redis",
+    "RetiringFeature": "Support for TLS 1.0 and 1.1",
+    "RetirementDate": "2024-10-31",
+    "Link": "https://learn.microsoft.com/azure/azure-cache-for-redis/cache-remove-tls-10-11",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "435",
+    "ServiceName": "Multiple",
+    "RetiringFeature": "Support for TLS 1.0 and 1.1",
+    "RetirementDate": "2024-10-31",
+    "Link": "https://azure.microsoft.com/updates/azure-support-tls-will-end-by-31-october-2024-2/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "669",
+    "ServiceName": "Event Grid",
+    "RetiringFeature": "Support for TLS 1.0 and 1.1",
+    "RetirementDate": "2024-10-31",
+    "Link": "https://azure.microsoft.com/updates/v2/TLS-changes-for-Azure-Event-Grid",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "541",
+    "ServiceName": "Azure Functions",
+    "RetiringFeature": ".NET 6",
+    "RetirementDate": "2024-11-12",
+    "Link": "https://learn.microsoft.com/azure/azure-functions/functions-versions?tabs=isolated-process%2Cv4&pivots=programming-language-csharp",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "464",
+    "ServiceName": "App Service",
+    "RetiringFeature": ".NET 6 (LTS)",
+    "RetirementDate": "2024-11-12",
+    "Link": "https://azure.microsoft.com/updates/dotnet6support/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "476",
+    "ServiceName": "Azure Cosmos DB for PostgreSQL",
+    "RetiringFeature": "PostgreSQL 12",
+    "RetirementDate": "2024-11-14",
+    "Link": "https://learn.microsoft.com/azure/cosmos-db/postgresql/reference-versions#postgresql-version-support-and-retirement",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "370",
+    "ServiceName": "Azure Spatial Anchors",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2024-11-20",
+    "Link": "https://azure.microsoft.com/updates/azure-spatial-anchors-retirement/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "459",
+    "ServiceName": "App Service",
+    "RetiringFeature": "PHP 8.1",
+    "RetirementDate": "2024-11-25",
+    "Link": "https://github.com/Azure/app-service-linux-docs/blob/master/Runtime_Support/php_support.md#how-to-update-your-app-to-target-a-different-version-of-php",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "353",
+    "ServiceName": "Azure Kubernetes",
+    "RetiringFeature": "HTTP Application Routing add-on",
+    "RetirementDate": "2025-03-03",
+    "Link": "https://azure.microsoft.com/updates/retirement-http-application-routing-addon-preview-for-aks-will-retire-03032025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "259",
+    "ServiceName": "Azure Machine Learning",
+    "RetiringFeature": "Explainability and Fairness Dashboard",
+    "RetirementDate": "2025-03-14",
+    "Link": "https://azure.microsoft.com/updates/aml-explanation-fairness-retirement/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "293",
+    "ServiceName": "Azure Pod Identity",
+    "RetiringFeature": "v1",
+    "RetirementDate": "2025-03-14",
+    "Link": "https://azure.microsoft.com/updates/pod-security-policy-is-being-deprecated-with-aks-125-and-20230601-api-version/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "80",
+    "ServiceName": "Application Insights",
+    "RetiringFeature": "Global ingestion endpoints",
+    "RetirementDate": "2025-03-15",
+    "Link": "https://azure.microsoft.com/updates/technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "86",
+    "ServiceName": "Azure Database for PostgreSQL",
+    "RetiringFeature": "Single server",
+    "RetirementDate": "2025-03-28",
+    "Link": "https://azure.microsoft.com/updates/azure-database-for-postgresql-single-server-will-be-retired-migrate-to-flexible-server-by-28-march-2025/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "225",
+    "ServiceName": "Azure Database for PostgreSQL",
+    "RetiringFeature": "Single Server- Version 11",
+    "RetirementDate": "2025-03-28",
+    "Link": "https://learn.microsoft.com/azure/postgresql/single-server/whats-happening-to-postgresql-single-server",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "29",
+    "ServiceName": "Azure Portal",
+    "RetiringFeature": "Public Preview Templates",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/the-templates-functionality-in-the-azure-portal-will-be-retired-on-31-march-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "643",
+    "ServiceName": "Azure Synapse",
+    "RetiringFeature": "Runtime for Apache Spark 3.3",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/v2/Azure-Synapse-runtime-Apache-Spark-3-3-EOS/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "76",
+    "ServiceName": "Cognitive Services",
+    "RetiringFeature": "QnAMaker",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/azure-qna-maker-will-be-retired-on-31-march-2025/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "79",
+    "ServiceName": "Container Insights",
+    "RetiringFeature": "Container Monitoring solution",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/omstoci/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "172",
+    "ServiceName": "App Service",
+    "RetiringFeature": "Platform Enabled DR for App Service Web Apps",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/action-recommended-implement-disaster-recovery-strategies-for-your-azure-app-service-web-apps-by-31-march-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "176",
+    "ServiceName": "Application Insights",
+    "RetiringFeature": "Instrumentation key based global ingestion",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/technical-support-for-instrumentation-key-based-global-ingestion-in-application-insights-will-end-on-31-march-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "267",
+    "ServiceName": "Azure SQL",
+    "RetiringFeature": "Connector v1 operations",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/sql-server-connector-s-v1-actions-and-triggers-will-be-retired-on-31-march-2024-transition-to-sql-server-connector-s-v2-actio/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "288",
+    "ServiceName": "Azure Arc-enabled Kubernetes",
+    "RetiringFeature": "Cluster Configuration with Flux v1 ",
+    "RetirementDate": "2025-05-24",
+    "Link": "https://azure.microsoft.com/updates/migrate-your-gitops-configurations-from-flux-v1-to-flux-v2-by-24-may-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "430",
+    "ServiceName": "SAP HANA Large Instances (HLIs)",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2025-06-30",
+    "Link": "https://azure.microsoft.com/updates/sap-hana-on-azure-large-instances-will-be-retired-by-30-june-2025-transition-to-virtual-machines/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "85",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "Diagnostic Settings Storage Retention",
+    "RetirementDate": "2025-09-15",
+    "Link": "https://azure.microsoft.com/updates/azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "398",
+    "ServiceName": "Azure Database for MariaDB",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2025-09-19",
+    "Link": "https://azure.microsoft.com/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "84",
+    "ServiceName": "Azure Disks",
+    "RetiringFeature": "Unmanaged Disks",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://learn.microsoft.com/azure/virtual-machines/unmanaged-disks-deprecation",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "94",
+    "ServiceName": "Azure Load Balancer",
+    "RetiringFeature": "Basic Load Balancer",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-basic-load-balancer-will-be-retired-on-30-september-2025-upgrade-to-standard-load-balancer/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "220",
+    "ServiceName": "Public IP address",
+    "RetiringFeature": "Basic Sku",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "9",
+    "ServiceName": "Azure SQL",
+    "RetiringFeature": "Microsoft.SQL 2014-04-01 stable APIs",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://learn.microsoft.com/rest/api/sql/retirement",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "21",
+    "ServiceName": "Azure Functions",
+    "RetiringFeature": "Proxy support",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "117",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "ITSM connector for ServiceNow Alerts",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://learn.microsoft.com/azure/azure-monitor/alerts/itsmc-overview",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "118",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "ITSM connector for ServiceNow Events",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://learn.microsoft.com/azure/azure-monitor/alerts/itsmc-overview",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "132",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "Low Priority VMs",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-batch-low-priority-vms-will-be-retired-on-30-september-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "171",
+    "ServiceName": "Application Insights",
+    "RetiringFeature": "API Key",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/switch-to-azure-ad-authentication-for-application-insights-by-30-september-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "203",
+    "ServiceName": "Azure Machine Learning",
+    "RetiringFeature": "CLI v1",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://docs.microsoft.com/azure/machine-learning/how-to-migrate-from-v1",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "213",
+    "ServiceName": "Azure Service Map",
+    "RetiringFeature": "Entire Service",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "215",
+    "ServiceName": "Application Insights",
+    "RetiringFeature": "Java 2.x SDK",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/application-insights-java-2x-retirement/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "323",
+    "ServiceName": "Azure Active Directory",
+    "RetiringFeature": " Legacy MFA and SSPR policies for authentication",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-transition-to-the-authentication-methods-policy-for-azure-active-directory/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "369",
+    "ServiceName": "Virtual Machines",
+    "RetiringFeature": "Default outbound access",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "454",
+    "ServiceName": "Azure Database for MySQL",
+    "RetiringFeature": "MySQL v5.7",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://learn.microsoft.com/azure/mysql/concepts-version-policy#what-will-happen-to-azure-database-for-mysql-service-after-mysql-community-version-is-retired-in-october-2023",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "481",
+    "ServiceName": "VPN Gateway",
+    "RetiringFeature": "Standard and High-Performance SKUs",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/standard-and-highperformance-vpn-gateway-skus-will-be-retired-on-30-september-2025/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "160",
+    "ServiceName": "Cognitive Services",
+    "RetiringFeature": "Language Understanding (LUIS)",
+    "RetirementDate": "2025-10-01",
+    "Link": "https://azure.microsoft.com/updates/language-understanding-retirement/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "206",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "Log Analytics alert API ",
+    "RetirementDate": "2025-10-01",
+    "Link": "https://docs.microsoft.com/azure/azure-monitor/alerts/alerts-log-api-switch",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "249",
+    "ServiceName": "Azure Database for PostgreSQL",
+    "RetiringFeature": "FlexibleServers- Version 11",
+    "RetirementDate": "2025-11-09",
+    "Link": "https://learn.microsoft.com/azure/postgresql/flexible-server/concepts-version-policy#postgresql-11-support",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "313",
+    "ServiceName": "Speech service ",
+    "RetiringFeature": "Speech-to-text REST preview API v3.1-preview.1",
+    "RetirementDate": "2026-03-13",
+    "Link": "https://azure.microsoft.com/updates/were-retiring-speechtotext-rest-preview-api-v31preview1-on-may-12-2023/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "333",
+    "ServiceName": "Microsoft Sentinel",
+    "RetiringFeature": "Alert-trigger playbooks",
+    "RetirementDate": "2026-03-15",
+    "Link": "https://azure.microsoft.com/updates/retirement-announcement-assigning-alert-trigger-playbooks-within-microsoft-sentinel-analytics-rules/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "321",
+    "ServiceName": "Azure Database Migration Service (classic)",
+    "RetiringFeature": "SQL Server scenarios",
+    "RetirementDate": "2026-03-15",
+    "Link": "https://azure.microsoft.com/updates/retirement-azure-database-migration-service-classic-sql-server-scenarios-deprecation/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "299",
+    "ServiceName": "Azure Machine Learning",
+    "RetiringFeature": "Batch Endpoints Preview APIs",
+    "RetirementDate": "2026-03-16",
+    "Link": "https://learn.microsoft.com/azure/machine-learning/concept-endpoints-batch?view=azureml-api-2",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "275",
+    "ServiceName": "Azure Site Recovery",
+    "RetiringFeature": "Classic VMware protection",
+    "RetirementDate": "2026-03-29",
+    "Link": "https://azure.microsoft.com/updates/classic-vmware-dr-deprecation/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "324",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "Availability in select regions",
+    "RetirementDate": "2026-03-31",
+    "Link": "https://azure.microsoft.com/updates/batch-service-in-select-regions-will-be-retired-on-31-march-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "222",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "Classic compute node communication model",
+    "RetirementDate": "2026-03-31",
+    "Link": "https://azure.microsoft.com/updates/azure-batch-classic-compute-node-communication-model-will-be-retired-on-31-march-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "284",
+    "ServiceName": "Azure Kubernetes",
+    "RetiringFeature": "Windows Server 2019",
+    "RetirementDate": "2026-03-31",
+    "Link": "https://azure.microsoft.com/updates/aks-will-stop-support-for-windows-server-2019-on-march-1-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "316",
+    "ServiceName": "Azure Active Directory",
+    "RetiringFeature": "Conditional Access policies that use only the Require Approved Client App grant",
+    "RetirementDate": "2026-03-31",
+    "Link": "https://learn.microsoft.com/entra/identity/conditional-access/migrate-approved-client-app",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "317",
+    "ServiceName": "Azure Log Analytics",
+    "RetiringFeature": "Custom fields",
+    "RetirementDate": "2026-03-31",
+    "Link": "https://learn.microsoft.com/azure/azure-monitor/logs/custom-fields-migrate",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "330",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "Custom image pools using VHD blobs in Azure Storage and Azure Managed Images",
+    "RetirementDate": "2026-03-31",
+    "Link": "https://azure.microsoft.com/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "335",
+    "ServiceName": "Application Insights",
+    "RetiringFeature": "API keys for querying ",
+    "RetirementDate": "2026-03-31",
+    "Link": "https://azure.microsoft.com/updates/transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "342",
+    "ServiceName": "Azure Kubernetes",
+    "RetiringFeature": "Windows Server 2019 on AKS hybrid",
+    "RetirementDate": "2026-03-31",
+    "Link": "https://techcommunity.microsoft.com/t5/containers/announcing-the-3-year-retirement-of-windows-server-2019-on-azure/ba-p/3777341",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "307",
+    "ServiceName": "Azure Backup",
+    "RetiringFeature": "Classic alerts for Recovery Services vaults ",
+    "RetirementDate": "2026-03-31",
+    "Link": "https://azure.microsoft.com/updates/transition-to-builtin-azure-monitor-alerts-for-recovery-services-vaults-in-azure-backup-by-31-march-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "298",
+    "ServiceName": "Azure Application Gateway",
+    "RetiringFeature": "V1",
+    "RetirementDate": "2026-04-28",
+    "Link": "https://azure.microsoft.com/updates/application-gateway-v1-will-be-retired-on-28-april-2026-transition-to-application-gateway-v2/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "322",
+    "ServiceName": "Azure AI Speech",
+    "RetiringFeature": "Custom Commands",
+    "RetirementDate": "2026-04-30",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-custom-commands-will-retire-on-30-april-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "397",
+    "ServiceName": "Azure AI Document Intelligence",
+    "RetiringFeature": "v2.0 API",
+    "RetirementDate": "2026-08-31",
+    "Link": "https://azure.microsoft.com/updates/retirement-azure-ai-document-intelligence-v20-api-will-be-retired-on-31-august-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "262",
+    "ServiceName": "Azure AI Vision",
+    "RetiringFeature": "Computer Vision API v1.0 ",
+    "RetirementDate": "2026-09-13",
+    "Link": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "263",
+    "ServiceName": "Azure AI Vision",
+    "RetiringFeature": "Computer Vision API v3.1 ",
+    "RetirementDate": "2026-09-13",
+    "Link": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "264",
+    "ServiceName": "Azure AI Vision",
+    "RetiringFeature": "Computer Vision API v3.0 ",
+    "RetirementDate": "2026-09-13",
+    "Link": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "269",
+    "ServiceName": "Azure AI Vision",
+    "RetiringFeature": "Computer Vision API v2.0",
+    "RetirementDate": "2026-09-13",
+    "Link": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "270",
+    "ServiceName": "Azure AI Vision",
+    "RetiringFeature": "Computer Vision API v2.1",
+    "RetirementDate": "2026-09-13",
+    "Link": "https://azure.microsoft.com/updates/computer-vision-api-retirements-13-9-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "302",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "HTTP Data Collector API",
+    "RetirementDate": "2026-09-14",
+    "Link": "https://learn.microsoft.com/azure/azure-monitor/logs/custom-logs-migrate",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "336",
+    "ServiceName": "Azure Functions",
+    "RetiringFeature": "Version 1.x runtime",
+    "RetirementDate": "2026-09-14",
+    "Link": "https://azure.microsoft.com/updates/support-for-the-1x-version-of-azure-functions-ends-14-september-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "423",
+    "ServiceName": "AKS-Engine",
+    "RetiringFeature": "Monitoring Support",
+    "RetirementDate": "2026-09-14",
+    "Link": "https://azure.microsoft.com/updates/azure-monitor-for-aksengine-will-not-be-supported-on-14-september-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "212",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "Legacy Azure Activity logs solution",
+    "RetirementDate": "2026-09-15",
+    "Link": "https://azure.microsoft.com/updates/azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "465",
+    "ServiceName": "Azure Maps",
+    "RetiringFeature": "Gen1 price tier",
+    "RetirementDate": "2026-09-15",
+    "Link": "https://azure.microsoft.com/updates/azure-maps-gen1-price-tier-retirement/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "428",
+    "ServiceName": "Azure Maps",
+    "RetiringFeature": "Render V1 APIs",
+    "RetirementDate": "2026-09-17",
+    "Link": "https://azure.microsoft.com/updates/azure-maps-render-v1-apis-will-be-retired-on-17-september-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "429",
+    "ServiceName": "Azure Maps",
+    "RetiringFeature": "Web SDK Map Controls v1.xx",
+    "RetirementDate": "2026-09-19",
+    "Link": "https://azure.microsoft.com/updates/azure-maps-web-sdk-map-controls-version-1xx-will-be-retired-on-19-september-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "387",
+    "ServiceName": "Azure Health Data Services",
+    "RetiringFeature": "SMART on FHIR proxy",
+    "RetirementDate": "2026-09-21",
+    "Link": "https://azure.microsoft.com/updates/smart-on-fhir-proxy-feature-in-azure-health-data-services-will-be-retired-on-21st-september-2026-transition-to-smart-on-fhir/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "154",
+    "ServiceName": "Application Insights",
+    "RetiringFeature": "Single URL Ping Test",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://azure.microsoft.com/updates/transition-to-using-standard-tests-for-singlestep-availability-testing-in-azure-monitor-application-insights-by-30-september/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "354",
+    "ServiceName": "Azure API for FHIR",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-api-for-fhir-retirement/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "357",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "Alerts - GetAlertSummary API ",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://azure.microsoft.com/updates/action-required-migrate-to-using-arg-query-for-get-alert-summary-in-azure-monitor/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "393",
+    "ServiceName": "Azure FXT Edge Filer",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://azure.microsoft.com/updates/fxtretirement/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "134",
+    "ServiceName": "Azure Virtual Desktop",
+    "RetiringFeature": "Classic",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://learn.microsoft.com/azure/virtual-desktop/virtual-desktop-fall-2019/classic-retirement",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "376",
+    "ServiceName": "Service Bus",
+    "RetiringFeature": "v2014-09; v2015-08; v2016-07 APIs",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "426",
+    "ServiceName": "Azure Container Registry",
+    "RetiringFeature": "2017-01-01-(GA) API",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://azure.microsoft.com/updates/we-re-ending-support-for-the-20170301ga-api/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "433",
+    "ServiceName": "Service Bus",
+    "RetiringFeature": "Track 0 and 1 SDKs and SBMP protocol",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "434",
+    "ServiceName": "Azure Monitor",
+    "RetiringFeature": "ContainerLog table",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://learn.microsoft.com/azure/azure-monitor/containers/container-insights-v2-migration",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "405",
+    "ServiceName": "Azure Anomaly Detector",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2026-10-01",
+    "Link": "https://azure.microsoft.com/updates/ai-services-anomaly-detector-will-be-retired-on-1-october-2026/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "407",
+    "ServiceName": "Azure Metrics Advisor",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2026-10-01",
+    "Link": "https://azure.microsoft.com/updates/ai-services-metrics-advisor-will-be-retired-on-1-october-2026/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "408",
+    "ServiceName": "Azure Personalizer",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2026-10-01",
+    "Link": "https://azure.microsoft.com/updates/ai-services-personalizer-will-be-retired-on-1-october-2026/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "411",
+    "ServiceName": "Cognitive Services Translator",
+    "RetiringFeature": "S2, S3, and S4 price instances",
+    "RetirementDate": "2026-10-01",
+    "Link": "https://azure.microsoft.com/updates/azure-ai-translator-s2s4-billing-instances-will-be-retired-on-1-october-2026-transition-to-commitment-tiers-for-discounted-pr/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "544",
+    "ServiceName": "Redis Enterprise",
+    "RetiringFeature": "Every-write AOF",
+    "RetirementDate": "2025-03-15",
+    "Link": "https://azure.microsoft.com/updates/everywrite-aof-persistence-on-azure-cache-for-redis-enterprise-and-enterprise-flash-will-be-retired-on-1-april-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "537",
+    "ServiceName": "Azure Maps",
+    "RetiringFeature": "Native SDK",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/azure-maps-native-sdk-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "443",
+    "ServiceName": "Azure CycleCloud",
+    "RetiringFeature": "Chef Run_lists and Cookbooks",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/azure-cyclecloud-support-for-chef-runlists-and-cookbooks-in-clusterinit-projects-is-ending-on-31-march-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "489",
+    "ServiceName": "Cost Management",
+    "RetiringFeature": "Connector for AWS",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/crossclouddeprecation/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "492",
+    "ServiceName": "Visual Studio App Center",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/visual-studio-app-center-retirement/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "534",
+    "ServiceName": "Azure Functions",
+    "RetiringFeature": "Service Bus Extension v4",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/update-to-azure-functions-service-bus-extension-v5x-by-31-march-2025-for-continued-support/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "543",
+    "ServiceName": "API Management",
+    "RetiringFeature": "Direct Management API",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "553",
+    "ServiceName": "Azure Maps",
+    "RetiringFeature": "Creator Feature State APIs",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/important-notice-azure-product-retirement-end-of-life-announcement-of-azure-maps-creator-feature-state-service-versions-31-ma/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "562",
+    "ServiceName": "HDInsight",
+    "RetiringFeature": "4.0",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/azure-hdinsight-40-will-be-retired-on-31-march-2025-migrate-your-hdinsight-clusters-to-51/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "563",
+    "ServiceName": "HDInsight",
+    "RetiringFeature": "5.0",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/hdinsight5retire/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "578",
+    "ServiceName": "API Management",
+    "RetiringFeature": "Git Repository",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "582",
+    "ServiceName": "Virtual Machines",
+    "RetiringFeature": "Standard_NC24rs_v3",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/standardnc24rsv3-virtual-machines-will-be-retired-on-march-31st-2025/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "558",
+    "ServiceName": "Azure Storage",
+    "RetiringFeature": "Track 1 SDK for C++",
+    "RetirementDate": "2025-03-31",
+    "Link": "https://azure.microsoft.com/updates/retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "549",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "Ubuntu 20.04 LTS support",
+    "RetirementDate": "2025-04-23",
+    "Link": "https://azure.microsoft.com/updates/support-for-ubuntu-2004-lts-for-batch-pools-will-be-retired-on-23-april-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "531",
+    "ServiceName": "App Service",
+    "RetiringFeature": "Node 18 LTS",
+    "RetirementDate": "2025-04-30",
+    "Link": "https://azure.microsoft.com/updates/action-required-upgrade-your-app-service-apps-to-node-20-lts-by-30-april-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "501",
+    "ServiceName": "Azure vFXT",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/vfxtretirement/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "500",
+    "ServiceName": "Azure HPC Cache",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/hpccacheretirement/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "514",
+    "ServiceName": "Virtual Machines",
+    "RetiringFeature": "Standard_NC6s_v3, Standard_NC12s_v3, and Standard_NC24s_v3",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/standardnc6sv3-standardnc12sv3-and-standardnc24sv3-azure-virtual-machines-will-be-retired-on-september-30-2025/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "546",
+    "ServiceName": "Microsoft Defender for Cloud",
+    "RetiringFeature": "Microsoft Actions and Compliance Offerings",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/some-compliance-features-in-microsoft-defender-for-cloud-will-be-retired-on-september-30-2025/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "548",
+    "ServiceName": "Azure Batch pools",
+    "RetiringFeature": "Default outbound access for Simplified node communication pool without public IP addresses",
+    "RetirementDate": "2025-09-30",
+    "Link": "https://azure.microsoft.com/updates/default-internet-outbound-access-for-simplified-node-communication-batch-pools-without-public-ip-addresses-will-be-retired-on/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "551",
+    "ServiceName": "Azure Maps",
+    "RetiringFeature": "Web SDK v2 Subversion (v2.0~v2.0.32) ",
+    "RetirementDate": "2026-09-30",
+    "Link": "https://azure.microsoft.com/updates/azure-maps-native-sdk-for-android-and-ios-will-be-retired-on-31-march-2025-transition-to-use-web-view-of-azure-maps-web-sdk/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "538",
+    "ServiceName": "Azure Functions",
+    "RetiringFeature": "In-process model ",
+    "RetirementDate": "2026-11-10",
+    "Link": "https://azure.microsoft.com/updates/retirement-support-for-the-inprocess-model-for-net-apps-in-azure-functions-ends-10-november-2026/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "555",
+    "ServiceName": "Azure Batch",
+    "RetiringFeature": "HPC Pack 2016",
+    "RetirementDate": "2027-01-12",
+    "Link": "https://azure.microsoft.com/updates/hpc-pack-2016-will-be-retired-on-12-january-2027/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "560",
+    "ServiceName": "Azure Kubernetes Service",
+    "RetiringFeature": "Windows Server 2022",
+    "RetirementDate": "2027-03-15",
+    "Link": "https://azure.microsoft.com/updates/ws2022-retirement-aks/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "495",
+    "ServiceName": "Virtual Machines",
+    "RetiringFeature": "Standard_M192is_v2",
+    "RetirementDate": "2027-03-31",
+    "Link": "https://azure.microsoft.com/updates/community-support-for-standardm192isv2-is-ending-on-31-march-2027/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "496",
+    "ServiceName": "Virtual Machines",
+    "RetiringFeature": "Standard_M192ims_v2",
+    "RetirementDate": "2027-03-31",
+    "Link": "https://azure.microsoft.com/updates/community-support-for-standardm192imsv2-is-ending-on-31-march-2027/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "497",
+    "ServiceName": "Virtual Machines",
+    "RetiringFeature": "Standard_M192ids_v2",
+    "RetirementDate": "2027-03-31",
+    "Link": "https://azure.microsoft.com/updates/community-support-for-standardm192idsv2-is-ending-on-31-march-2027/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "498",
+    "ServiceName": "Virtual Machines",
+    "RetiringFeature": "Standard_M192idms_v2",
+    "RetirementDate": "2027-03-31",
+    "Link": "https://azure.microsoft.com/updates/support-for-standardm192idmsv2-will-be-retired-on-31-march-2027/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "519",
+    "ServiceName": "Application Gateway",
+    "RetiringFeature": "WAF v2 Config",
+    "RetirementDate": "2027-03-31",
+    "Link": "https://azure.microsoft.com/updates/retirement-support-for-application-gateway-web-application-firewall-v2-configuration-is-ending/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "532",
+    "ServiceName": "Azure Data Factory ",
+    "RetiringFeature": "Memory Optimized Data Flows",
+    "RetirementDate": "2027-03-31",
+    "Link": "https://azure.microsoft.com/updates/were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "542",
+    "ServiceName": "API Management",
+    "RetiringFeature": "Built-in Analytics",
+    "RetirementDate": "2027-03-31",
+    "Link": "https://azure.microsoft.com/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "561",
+    "ServiceName": "Azure AI Content Moderator",
+    "RetiringFeature": "Entire service",
+    "RetirementDate": "2027-03-15",
+    "Link": "https://azure.microsoft.com/updates/azure-content-moderator-retirement/",
+    "Availability under Impacted Services": "Yes"
+  },
+  {
+    "id": "529",
+    "ServiceName": "Azure Front Door",
+    "RetiringFeature": "Classic",
+    "RetirementDate": "2027-03-31",
+    "Link": "https://azure.microsoft.com/updates/azure-front-door-classic-will-be-retired-on-31-march-2027/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "455",
+    "ServiceName": "Azure text to speech",
+    "RetiringFeature": "Long audio API",
+    "RetirementDate": "2027-04-01",
+    "Link": "https://azure.microsoft.com/updates/long-audio-api-will-be-retired-on-31-march-2027-migrate-to-the-new-batch-synthesis-api/",
+    "Availability under Impacted Services": ""
+  },
+  {
+    "id": "624",
+    "ServiceName": "Azure Lab Services",
+    "RetiringFeature": "V1 and V2",
+    "RetirementDate": "2027-06-28",
+    "Link": "https://azure.microsoft.com/updates/v2/Azure-Lab-Services-is-being-retired",
+    "Availability under Impacted Services": "Yes"
+  }
+]
